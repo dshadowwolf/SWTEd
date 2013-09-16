@@ -1,0 +1,25 @@
+ <!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+     <file>icons/new.png</file>
+     <file>icons/copy.png</file>
+     <file>icons/cut.png</file>
+     <file>icons/undo.png</file>
+     <file>icons/redo.png</file>
+     <file>icons/search.png</file>
+     <file>icons/replace.png</file>
+     <file>icons/open.png</file>
+     <file>icons/paste.png</file>
+     <file>icons/save.png</file>
+     <file>LICENSE</file>
+     <file>icons/bold.gif</file>
+     <file>icons/underline.gif</file>
+     <file>icons/italic.gif</file>
+     <file>icons/super.gif</file>
+     <file>icons/sub.gif</file>
+     <file>icons/align_left.gif</file>
+     <file>icons/align_right.gif</file>
+     <file>icons/align_center.gif</file>
+     <file>icons/align_just.gif</file>
+ </qresource>
+ </RCC>
+
