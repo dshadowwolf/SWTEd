@@ -5,8 +5,8 @@
 aboutDialog::aboutDialog(QWidget *parent)
   : QDialog(parent)
 {
-  mainLabel = new QLabel(tr("WolfTech Editor, version 0.0.1A\n"
-			    "Copyright (c) 2007, Daniel Hazelton"));
+  mainLabel = new QLabel(tr("WolfTech Editor, version 0.0.1B\n"
+			    "Copyright (c) 2007, 2013, Daniel Hazelton"));
 
   OK = new QPushButton(tr("Ok"));
   OK->setDefault(true);

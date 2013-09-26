@@ -3,7 +3,7 @@
 
 int main(int argc, char *argv[])
 {
-  Q_INIT_RESOURCE(qted);
+  Q_INIT_RESOURCE(swted);
 
   QApplication app(argc, argv);
   MainWindow mainWin;
